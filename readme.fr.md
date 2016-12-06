@@ -1,6 +1,6 @@
 [Version original](https://github.com/tutoblender/lmms_nes)
 
-![Thumbnail](https://github.com/tutoblender/lmms_nes/raw/master/doc/thumbnail_instructables.png)
+![Thumbnail](https://github.com/tutoblender/lmms_nes/raw/master/doc/thumbnail_instructables.png)    
 LMMS propose un module nommée **Nescaline** qui permet de reproduire le son d'une NES.
 Nous allons voir comment utiliser ce logiciel pour faire des musiques dans le style 8bit.
 
