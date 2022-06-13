@@ -14,7 +14,7 @@ Instructables :
 # NES Session
 We are going to use a premade session for lmms.
 * Download **LMMS** : https://lmms.io/
-* Download http://nes.madnerd.org
+* Download [nes sessions](https://github.com/tutoblender/lmms_nes/archive/refs/heads/master.zip)
 * Open **nes.mmpz**
 
 There are also **examples**.
